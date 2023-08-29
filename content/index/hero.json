@@ -1,0 +1,23 @@
+{
+	
+
+	"header": {
+	
+		"usp": "Educating, Empowering And connecting Indonesian With Blockhain"
+	},
+
+	"paragraph": "Founded by a group of people who were captivated by the transformative power of blockchain technology, Collabin.id has the vision of creating awareness among Indonesians about current and future technologies.Our first mission is to educate,empower and connect Indonesian with blockchain.",
+
+	"buttons": {
+		"primary": {
+			"title": "Contact Me",
+			"url": "",
+			"leaveSite": false
+		},
+		"secondary": {
+			"title": "LinkedIn",
+			"url": "",
+			"leaveSite": "true"
+		}
+	}
+}
